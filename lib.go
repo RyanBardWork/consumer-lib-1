@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/RyanBardWork/common-lib"
+	"github.com/RyanBardWork/common-lib/v2"
 )
 
 // pointless comment
